@@ -1,2 +1,19 @@
-# are-tree-diagnosis-classification-from-scratch
-"A from-scratch machine learning pipeline built in NumPy to classify urban tree health diagnostics, achieving a tied #1 leaderboard finish.
+# Tree Diagnosis Classification
+
+University machine learning competition project.
+
+## Result
+🏆 Tied for #1 on leaderboard
+
+## Built From Scratch
+- KNN
+- Decision Tree
+- Random Forest
+- Cross Validation
+- Weighted Ensemble Voting
+
+## Stack
+Python, NumPy, pandas
+
+## Lessons Learned
+...
