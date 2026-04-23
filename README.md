@@ -103,8 +103,11 @@ jupyter notebook
 ## Authors
 
 Tamer Al Masri 
+
 Alex ARGELES 
 
+
+---
 Sorbonne Université 
 
 ---
